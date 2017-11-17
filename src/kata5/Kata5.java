@@ -43,6 +43,10 @@ public class Kata5 {
             
         }
         
+        rs.close();
+        st.close();
+        con.close();
+        
     }
     
 }
